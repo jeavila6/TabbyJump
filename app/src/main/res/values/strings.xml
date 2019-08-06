@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Tabby Jump</string>
+    <string name="title">Tabby Jump</string>
+    <string name="start">Play</string>
+    <string name="high_score">High Score:</string>
+    <string name="background_description">checked background</string>
+    <string name="About">About</string>
+    <string name="about_description">question mark</string>
+    <string name="about">About</string>
+    <string name="audio_samples_label">Audio Samples - Freesound</string>
+    <string name="audio_samples_info">
+        jump2.wav by LloydEvans09\n
+        PauseOn.ogg by jens.enk\n
+        PauseOff.ogg by jens.enk\n
+        kitten22.wav by Department64\n
+        SlimeJump.wav by Zuzek06\n
+        Pop 6 by greenvwbeetle\n
+        6.wav stomachache\n
+        320655__rhodesmas__level-up-01.mp3 by shinephoenixstormcrow\n
+        level up.wav by Cabeeno Rossley\n
+        click 1 d.wav by TicTacShutUp\n
+        Snapping, Wooden Fence, B.wav by InspectorJ
+    </string>
+    <string name="artwork_label">Artwork - OpenGameArt.org</string>
+    <string name="artwork_info">
+        Pixel Cat by scofanogd\n
+        Slime Monster 24x24 by Bonsaiheldin
+    </string>
+    <string name="about_info">
+        Tabby Jump was developed by Jonathan A. for CS 5381.
+    </string>
+</resources>
